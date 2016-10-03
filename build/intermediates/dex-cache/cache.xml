@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sans/Videos/StockHawk/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/sans/Videos/StockHawk/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_73478dd48d8e120665af20ecc5c8ef9fd45e3b2f.jar" />
+    </item>
+    <item
+        jar="/home/sans/Videos/StockHawk/app/build/intermediates/exploded-aar/com.github.blackfizz/eazegraph/1.2.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2584bbecc58c666b0e064ebce64f67a46bfa2aba">
+        <dex dex="/home/sans/Videos/StockHawk/app/build/intermediates/pre-dexed/debug/com.github.blackfizz-eazegraph-1.2.2_776b496fb79caea4b312fd4b3c0dade7a3950e32.jar" />
+    </item>
+    <item
+        jar="/home/sans/Videos/StockHawk/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.7/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a94e3ac390a37f149a235f7f5e1b49b65151c0bf">
+        <dex dex="/home/sans/Videos/StockHawk/app/build/intermediates/pre-dexed/debug/com.github.afollestad.material-dialogs-core-0.8.5.7_294f76400c9fff5d2f67b42af4f2c10e7ff69c18.jar" />
+    </item>
+    <item
+        jar="/home/sans/Videos/StockHawk/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/sans/Videos/StockHawk/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.3.0_59190da0521b012b34af9531e544b70ca90c4a00.jar" />
+    </item>
+    <item
+        jar="/home/sans/Videos/StockHawk/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/sans/Videos/StockHawk/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_4b26af565ea81f4aadbd34e7299e41b0ff593019.jar" />
+    </item>
+    <item
+        jar="/home/sans/Videos/StockHawk/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="65620ba5e576dcec2c86efa440b00d042a27383b">
+        <dex dex="/home/sans/Videos/StockHawk/app/build/intermediates/pre-dexed/debug/com.melnykov-floatingactionbutton-1.2.0_e6b5d30b2f3b91f5e4e15d59cda82ad089d3f130.jar" />
+    </item>
+    <item
+        jar="/home/sans/Videos/StockHawk/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/home/sans/Videos/StockHawk/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-measurement-8.4.0_4ff817c4465fd6426269f0fbf164c6db36bdd6cc.jar" />
+    </item>
+    <item
+        jar="/home/sans/Videos/StockHawk/app/build/intermediates/exploded-aar/com.lsjwzh/materialloadingprogressbar/0.5.6-RELEASE/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b7760c9799d4842e39492efb0957ed62e4c7c57a">
+        <dex dex="/home/sans/Videos/StockHawk/app/build/intermediates/pre-dexed/debug/com.lsjwzh-materialloadingprogressbar-0.5.6-RELEASE_f713840bec30654939a9a060ff91651ff9e64c66.jar" />
+    </item>
+    <item
+        jar="/home/sans/Videos/StockHawk/app/build/intermediates/exploded-aar/net.simonvt.schematic/schematic/0.6.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f6f5730f19d22f177096c8d134d4892b0fbd631d">
+        <dex dex="/home/sans/Videos/StockHawk/app/build/intermediates/pre-dexed/debug/net.simonvt.schematic-schematic-0.6.3_3456932d09f675b24a3e59549a253f5031f5e066.jar" />
+    </item>
+    <item
+        jar="/home/sans/Videos/StockHawk/app/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.1.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4a9f97c742d058ca55948643c06f447895a9af76">
+        <dex dex="/home/sans/Videos/StockHawk/app/build/intermediates/pre-dexed/debug/me.zhanghai.android.materialprogressbar-library-1.1.5_8b3fbaa04fa897a6094bd4b9566337347442f000.jar" />
+    </item>
+    <item
+        jar="/home/sans/Videos/StockHawk/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/sans/Videos/StockHawk/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.3.0_42c37eb7e1518b542b476e01b4ecee39a225282a.jar" />
+    </item>
+    <item
+        jar="/home/sans/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/sans/Videos/StockHawk/app/build/intermediates/pre-dexed/debug/library-2.4.0_ae41455ab037681cd779679c000c93bebc0e4305.jar" />
+    </item>
+    <item
+        jar="/home/sans/Videos/StockHawk/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/sans/Videos/StockHawk/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_699d41592d1b525bb96349333d62f64a2b1dc0ef.jar" />
+    </item>
+    <item
+        jar="/home/sans/.gradle/caches/modules-2/files-2.1/net.simonvt.schematic/schematic-annotations/0.6.3/4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36/schematic-annotations-0.6.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36">
+        <dex dex="/home/sans/Videos/StockHawk/app/build/intermediates/pre-dexed/debug/schematic-annotations-0.6.3_3e96160134b0f81336940b8f081d62db292621f1.jar" />
+    </item>
+    <item
+        jar="/home/sans/Documents/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/sans/Videos/StockHawk/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_9a2dfcef9c3e8686d89aaf40dcd06e87a6907d5a.jar" />
+    </item>
+    <item
+        jar="/home/sans/Videos/StockHawk/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/sans/Videos/StockHawk/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_5707206df7cf7392843d01631682966942935386.jar" />
+    </item>
+    <item
+        jar="/home/sans/Videos/StockHawk/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/sans/Videos/StockHawk/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_db8189baa74094c770ee5c952c690926aeee5cc0.jar" />
+    </item>
+    <item
+        jar="/home/sans/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/home/sans/Videos/StockHawk/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0_72c8ccb677fd658922986544e7ab30ced4b0ecf8.jar" />
+    </item>
+    <item
+        jar="/home/sans/Videos/StockHawk/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/home/sans/Videos/StockHawk/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-8.4.0_85ce530b0cd69564af0fd4ec2ec52811241103ae.jar" />
+    </item>
+    <item
+        jar="/home/sans/Videos/StockHawk/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/sans/Videos/StockHawk/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_f769d0f421fc30c465bee03102adbbe9f4a8762d.jar" />
+    </item>
+    <item
+        jar="/home/sans/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/sans/Videos/StockHawk/app/build/intermediates/pre-dexed/debug/okio-1.6.0_e405e70bcf8398d35aede69557c4ceae9e379a59.jar" />
+    </item>
+    <item
+        jar="/home/sans/Videos/StockHawk/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/sans/Videos/StockHawk/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_d141c4e870c3a6a4a8fb526ee45fa5ee355a64db.jar" />
+    </item>
+
+</items>
